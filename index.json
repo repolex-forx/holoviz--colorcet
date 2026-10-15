@@ -1,0 +1,11 @@
+{
+  "org": "holoviz",
+  "repo": "colorcet",
+  "versions": [
+    {
+      "commit": "076eb84bf86c222cdac830073990f1a08c99778b",
+      "tag": "",
+      "parsed_at": "2026-10-15T21:22:33.512641+00:00"
+    }
+  ]
+}
