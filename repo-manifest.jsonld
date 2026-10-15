@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/holoviz/colorcet/commit/076eb84bf86c222cdac830073990f1a08c99778b",
       "git:hexsha": "076eb84bf86c222cdac830073990f1a08c99778b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T21:22:33.511914+00:00"
     },
     {
       "@id": "https://repolex.ai/r/holoviz/colorcet/commit/54faeef999b5ee12b98280d8b37d95186ad73f96",
